@@ -1,3 +1,4 @@
+Reported and Resolved: https://github.com/elixir-ecto/ecto/issues/2784
 
 Ecto2 command:
 
